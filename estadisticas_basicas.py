@@ -27,7 +27,7 @@ with open(archivo, "r") as fichero:
         # Sumamos el valor total de la media el último valor de la lista
         media += edades[-1]
 
-    # Calculos finales
+    # Cálculos finales
     media /= len(edades)
     maximo = max(edades)
     minimo = min(edades)

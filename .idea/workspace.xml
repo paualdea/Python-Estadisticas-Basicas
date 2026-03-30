@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a336b79-3676-4684-82d0-5183ef4ee3a7" name="Changes" comment="Calculo media, min, max y total de entradas Closes #2" />
+    <list default="true" id="6a336b79-3676-4684-82d0-5183ef4ee3a7" name="Changes" comment="Corrección y sincronización Github">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estadisticas_basicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/estadisticas_basicas.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774879602249</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Corrección y sincronización Github">
+      <option name="closed" value="true" />
+      <created>1774880243304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774880243304</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -83,6 +94,7 @@
     <MESSAGE value="Creación repositorio" />
     <MESSAGE value="Creación y lectura archivo edades.txt Closes #1" />
     <MESSAGE value="Calculo media, min, max y total de entradas Closes #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculo media, min, max y total de entradas Closes #2" />
+    <MESSAGE value="Corrección y sincronización Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección y sincronización Github" />
   </component>
 </project>
