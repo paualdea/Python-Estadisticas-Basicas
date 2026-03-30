@@ -34,4 +34,4 @@ with open(archivo, "r") as fichero:
     entradas = len(edades)
 
     # Imprimimos los resultados por pantalla
-    print(f"\t\t\n.:ESTADÍSTICAS BÁSICAS:.\n\nEdad media --> {media} años\nMáxima edad --> {maximo}\nMínima edad --> {minimo}\nTotal de edades --> {entradas} edades")
+    print(f"\t\t\n.:ESTADÍSTICAS BÁSICAS:.\n\nEdad media --> {media} años\nMáxima edad --> {maximo} años\nMínima edad --> {minimo} años\nTotal de edades --> {entradas} edades")
